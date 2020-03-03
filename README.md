@@ -1,6 +1,6 @@
-# text
+#文档
 
-## Project setup
+## 这个程序是手机端的一个简单商城项目的练习
 ```
 npm install
 ```
